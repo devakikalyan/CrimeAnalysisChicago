@@ -1,0 +1,918 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60610",
+    "Number of Crimes": 92133
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.63204060436807, 41.9069702196093]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60611",
+    "Number of Crimes": 87083
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.61426108697702, 41.893852144853014]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "46320",
+    "Number of Crimes": 31
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.50476410333283, 41.64326596155533]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60612",
+    "Number of Crimes": 182146
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.68774265080452, 41.88031290743506]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60613",
+    "Number of Crimes": 67434
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.65435548054394, 41.956893302995766]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60406",
+    "Number of Crimes": 106
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.68186017573665, 41.65473907432287]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60614",
+    "Number of Crimes": 114268
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.6496488735559, 41.92276382200218]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60660",
+    "Number of Crimes": 52348
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.66367869530002, 41.99123146185633]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60615",
+    "Number of Crimes": 107749
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.59655858388567, 41.80236455779632]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60453",
+    "Number of Crimes": 176
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.75282172050785, 41.714268647923184]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60616",
+    "Number of Crimes": 124665
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.62418270431893, 41.844615094236765]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60661",
+    "Number of Crimes": 17054
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.64409932063991, 41.88302774391605]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60617",
+    "Number of Crimes": 254239
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.55237299631295, 41.718108110649624]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60456",
+    "Number of Crimes": 373
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.73113375649952, 41.73124836785941]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60618",
+    "Number of Crimes": 140636
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.70254829749322, 41.94696095316243]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60619",
+    "Number of Crimes": 265053
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.60552317380329, 41.74369459505212]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60827",
+    "Number of Crimes": 30007
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.6301231977651, 41.649581859066124]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60459",
+    "Number of Crimes": 695
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.76857596219347, 41.744430882231875]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60202",
+    "Number of Crimes": 1042
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.68540819037065, 42.030778819131584]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60620",
+    "Number of Crimes": 303795
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.65251816139221, 41.740815665104634]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60621",
+    "Number of Crimes": 218870
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.63957122269964, 41.77638315900862]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60171",
+    "Number of Crimes": 54
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.838372606616, 41.9250470199894]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60622",
+    "Number of Crimes": 136251
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.68332898817984, 41.902712331204604]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60623",
+    "Number of Crimes": 254772
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.7178320638402, 41.84811928295651]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60624",
+    "Number of Crimes": 269733
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.72341744390074, 41.88064224050167]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60706",
+    "Number of Crimes": 2138
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.81624216673362, 41.964256872929745]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60625",
+    "Number of Crimes": 99038
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.70013122143479, 41.97331795207269]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60707",
+    "Number of Crimes": 27639
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.80728284655585, 41.92185314577366]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60176",
+    "Number of Crimes": 39
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.8688824428075, 41.95812296322786]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60626",
+    "Number of Crimes": 100374
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.6669274703476, 42.00982361517519]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60419",
+    "Number of Crimes": 40
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.5994009346598, 41.62771084241931]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60628",
+    "Number of Crimes": 307647
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.61794906849178, 41.691814063929165]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60629",
+    "Number of Crimes": 224567
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.71157126167378, 41.77567668435845]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60131",
+    "Number of Crimes": 1043
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.88428141630266, 41.938762038624446]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60501",
+    "Number of Crimes": 394
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.82395181450043, 41.78014188141187]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60007",
+    "Number of Crimes": 5
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.99310209232272, 42.00759839631895]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60630",
+    "Number of Crimes": 61874
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.75711917849637, 41.97211990635078]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60631",
+    "Number of Crimes": 19747
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.81300151657253, 41.994856493215096]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60712",
+    "Number of Crimes": 181
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.73323918662581, 42.00543213159508]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60632",
+    "Number of Crimes": 149024
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.71333414995226, 41.81137057415015]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60714",
+    "Number of Crimes": 408
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.81097569637365, 42.028062507313464]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60633",
+    "Number of Crimes": 15990
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.56133243561622, 41.664335687184455]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60634",
+    "Number of Crimes": 85780
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.8060667116652, 41.94633515488626]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60636",
+    "Number of Crimes": 244733
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.6690639813216, 41.77574045793778]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60637",
+    "Number of Crimes": 232104
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.59949016961339, 41.78221467271905]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60638",
+    "Number of Crimes": 70934
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.77051885059109, 41.78143259550751]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60639",
+    "Number of Crimes": 192996
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.75605410314358, 41.92055201560761]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60302",
+    "Number of Crimes": 2868
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.78970474422744, 41.89461177081424]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60304",
+    "Number of Crimes": 979
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.78948446049647, 41.87238874636043]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60018",
+    "Number of Crimes": 26019
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.89696880551145, 41.99746815258228]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60640",
+    "Number of Crimes": 114973
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.66135522399308, 41.97267396595319]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60641",
+    "Number of Crimes": 112563
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.74678675474802, 41.946606202484915]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60803",
+    "Number of Crimes": 376
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.73566853990039, 41.67206171679346]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60642",
+    "Number of Crimes": 60403
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.6579986719061, 41.90163219253699]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60804",
+    "Number of Crimes": 1050
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.76017352291537, 41.837804899582736]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60643",
+    "Number of Crimes": 123219
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.66278660959027, 41.69958945039656]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60805",
+    "Number of Crimes": 1646
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.7024458909687, 41.72200183973631]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60068",
+    "Number of Crimes": 890
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.84356297263778, 42.012519852268134]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60644",
+    "Number of Crimes": 267700
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.75749122245715, 41.880233195642234]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60645",
+    "Number of Crimes": 51382
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.69473532104867, 42.008558697726215]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60646",
+    "Number of Crimes": 20061
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.75962933186497, 41.993018732704456]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60647",
+    "Number of Crimes": 191185
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.7017494838259, 41.92072769559]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60649",
+    "Number of Crimes": 208373
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.56596849504108, 41.76408816702796]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60106",
+    "Number of Crimes": 100
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.94185992168893, 41.960477287171024]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60601",
+    "Number of Crimes": 41253
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.6220635788202, 41.88528523152536]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60602",
+    "Number of Crimes": 39325
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.62914845044855, 41.88307288187778]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60603",
+    "Number of Crimes": 16662
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.62550976274485, 41.88018799383719]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60604",
+    "Number of Crimes": 19421
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.62845993974335, 41.878095500694926]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60605",
+    "Number of Crimes": 50867
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.6168211243717, 41.8681499164853]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60606",
+    "Number of Crimes": 22115
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.63735145603125, 41.882070547272605]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60651",
+    "Number of Crimes": 245850
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.74085634373797, 41.902091950254224]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60652",
+    "Number of Crimes": 70197
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.7147959011066, 41.747931606353006]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60076",
+    "Number of Crimes": 14
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.72992942562219, 42.03526202984887]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60607",
+    "Number of Crimes": 76603
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.65158943683572, 41.874924953765614]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60077",
+    "Number of Crimes": 18
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.75718672145256, 42.03475060734252]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60653",
+    "Number of Crimes": 115454
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.60604412453813, 41.81986739839155]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60608",
+    "Number of Crimes": 160124
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.67139985218088, 41.848740193889]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60654",
+    "Number of Crimes": 58982
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.63725908348005, 41.89227718409998]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60609",
+    "Number of Crimes": 227459
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.6556445485447, 41.812505892428206]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60655",
+    "Number of Crimes": 22176
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.703775995511, 41.69477647093993]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60656",
+    "Number of Crimes": 20507
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.82712692568731, 41.97427834775481]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60657",
+    "Number of Crimes": 97374
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.64925572789521, 41.94033100858747]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ZIP Code": "60659",
+    "Number of Crimes": 53159
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.70405593900391, 41.99114621317092]
+  }
+}
+  ]
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.beast</groupId>
+    <artifactId>ChicagoCrimeAnalysis</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <beast.version>0.10.1-RC1</beast.version>
+        <spark.version>3.0.0</spark.version>
+        <scala.version>2.12.13</scala.version>
+        <scala.compat.version>2.12</scala.compat.version>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>edu.ucr.cs.bdlab</groupId>
+            <artifactId>commontest</artifactId>
+            <version>${beast.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>edu.ucr.cs.bdlab</groupId>
+            <artifactId>beast-spark</artifactId>
+            <version>${beast.version}</version>
+        </dependency>
+    </dependencies>
+
+</project>
